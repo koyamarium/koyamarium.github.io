@@ -41,14 +41,16 @@ const page = `<!doctype html>
 <html lang="ja"><head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
   <title>著書・Kindle本 | 小山 洋</title>
-  <meta name="description" content="小山 洋の著書と刊行予定のKindle本。宇宙人マニュアル、ポスドクは投資しろ、理論天文学の道具箱 入門編。">
+  <meta name="description" content="小山 洋の著書と刊行予定のKindle本。${escape(books.map(book => book.title).join('、'))}。">
   <link rel="canonical" href="https://koyamarium.github.io/books/">
   <meta property="og:title" content="著書・Kindle本 | 小山 洋"><meta property="og:type" content="website">
   <meta property="og:description" content="物理の式から、空想や研究者の暮らしまで。著書と刊行予定の本をご紹介します。">
   <meta property="og:url" content="https://koyamarium.github.io/books/"><meta property="og:image" content="https://koyamarium.github.io/books/covers/alien-manual.jpg">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/books/books.css">
   <script src="/books/books.js" defer></script>
-<style id="rights-notice-style">.rights-notice{display:block;box-sizing:border-box;max-width:1240px;width:100%;margin:32px auto 0;padding:20px 24px;border-top:1px solid #c8c4ba;color:#56564e;background:transparent;font:13px/1.7 system-ui,sans-serif}.rights-notice p{display:flex;flex-wrap:wrap;gap:8px 24px;margin:0!important}.rights-notice a{color:inherit;text-underline-offset:3px}.rights-notice span{overflow-wrap:anywhere}</style></head><body class="books-page"><div class="books-wrap">
+<style id="rights-notice-style">.rights-notice{display:block;box-sizing:border-box;max-width:1240px;width:100%;margin:32px auto 0;padding:20px 24px;border-top:1px solid #c8c4ba;color:#56564e;background:transparent;font:13px/1.7 system-ui,sans-serif}.rights-notice p{display:flex;flex-wrap:wrap;gap:8px 24px;margin:0!important}.rights-notice a{color:inherit;text-underline-offset:3px}.rights-notice span{overflow-wrap:anywhere}</style>
+<meta name="twitter:card" content="summary_large_image">
+</head><body class="books-page"><div class="books-wrap">
   <header class="books-header"><a class="books-identity" data-books-link href="/?lang=ja">Hiroshi Koyama</a><div class="books-language" role="group" aria-label="言語 / Language" hidden><button type="button" data-books-lang="ja" lang="ja" aria-pressed="true">日本語</button><button type="button" data-books-lang="en" lang="en" aria-pressed="false">English</button></div></header>
   <main><section class="books-intro"><p class="books-eyebrow">BOOKS BY HIROSHI KOYAMA</p>${text('著書・Kindle本','Books','h1')}${text('物理の式から、空想や研究者の暮らしまで。小山 洋の著書と刊行予定の本を紹介します。','From physical equations to imagined worlds and life in research. Published and forthcoming books by Hiroshi Koyama.','p')}</section>
   ${groups}</main>

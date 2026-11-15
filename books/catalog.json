@@ -45,34 +45,6 @@
           "This Japanese-language book connects compound growth, diversification, interest rates, economic policy, and historical data with tax, pensions, and health insurance. Its aim is more choice in research and life."
         ]
       }
-    },
-    {
-      "id": "astronomy-foundations",
-      "title": "理論天文学の道具箱 入門編",
-      "subtitle": "高校数学でたどる、星と宇宙のしくみ",
-      "status": "published",
-      "asin": "B0HQX2ZSNR",
-      "cover": "/books/covers/astronomy-foundations.jpg",
-      "genre": { "ja": "宇宙物理の入門書", "en": "An introduction to astrophysics" },
-      "teaser": {
-        "ja": "小さな式から、大きな宇宙へ。高校数学の式変形で星と宇宙をたどる。",
-        "en": "From small equations to a vast universe: exploring stars and the cosmos through school-level algebra."
-      },
-      "description": {
-        "ja": [
-          "白色矮星には、なぜ限界の質量があるのでしょう。光は星を押し広げられるのでしょうか。分数・指数・平方根・比例を手がかりに、星と宇宙のしくみを式変形でたどる入門書です。",
-          "熱放射、太陽の寿命、エディントン限界、チャンドラセカール質量から宇宙膨張まで。無料のWeb教材をもとに、説明文・数値例・式変形の読み方を増補し、書籍として再構成しています。"
-        ],
-        "en": [
-          "Why do white dwarfs have a limiting mass? Can light push a star apart? This Japanese-language introduction explores stars and the universe through fractions, powers, roots, and proportional reasoning.",
-          "It develops thermal radiation, stellar lifetimes, the Eddington limit, the Chandrasekhar mass, and cosmic expansion. Based on the free web lessons, the book expands the explanations and worked examples."
-        ]
-      },
-      "related": {
-        "url": "https://koyamarium.github.io/astronomy-step-by-step/",
-        "ja": "関連する無料Web教材",
-        "en": "Related free web lessons"
-      }
     }
   ]
 }
