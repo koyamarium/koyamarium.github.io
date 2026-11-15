@@ -1,9 +1,6 @@
 (() => {
   const copy = {
   "ja": {
-    "gordonAction": "候補論文・マシン・性能の記録へ（英語） →",
-    "gordonDescription": "歴代Gordon Bell賞の候補・応募記録とDOIを年別にたどる英語資料サイト。部分一覧や未確認項目を明示し、本文の性能条件・出典も収録しています。",
-    "gordonResearchAction": "論文と性能の記録を読む",
     "moonCamera": "Nikon Z50 · NIKKOR Z DX 50–250mm f/4.5–6.3 VR",
     "moonExposure": "250mm · f/6.3 · 1/800秒 · ISO 100",
     "moonTime": "撮影：2021年9月19日 21:07:35（日本時間）",
@@ -16,14 +13,6 @@
     "marketTitle": "株価チャート・アトラス",
     "marketDescription": "移動平均・MACD・RSI・ボリンジャーバンドを、数式と実際のチャートで比較。期間を動かし、仕組みと読み方、限界を確かめる日英対応のギャラリー。",
     "marketAction": "分析手法を見比べる",
-    "policyTitle": "計算科学政策の記録",
-    "policyDescription": "文部科学省への2度の出向を軸に、HPCI・ポスト「京」・AI for Scienceの委員会と関連業務を公開資料でたどる記録。",
-    "policyAction": "記録を読む",
-    "notesField": "自筆ノート / Handwritten Notes",
-    "notesTitle": "大学ノート",
-    "notesDescription": "学生時代の自筆ノート41冊・1,170ページ。数式や図、考えた跡をそのまま残した、読み返せる書庫です。",
-    "notesAction": "ノートを読む",
-    "notesPaused": "現在非公開",
     "title": "koyamarium | 小山 洋",
     "skip": "ポートフォリオへ進む",
     "headline": "koyamarium",
@@ -53,12 +42,12 @@
     "entryWriting": "記事・エッセイ",
     "entryWritingNote": "科学・AI・研究者の暮らしをnoteで。",
     "entryResearch": "教材・研究",
-    "entryResearchNote": "宇宙物理、数値計算、大学ノート、Web作品。",
+    "entryResearchNote": "宇宙物理、数値計算、光学、Web作品。",
     "entryBooks": "本",
     "entryBooksNote": "物理の空想から研究者の暮らしまで。",
     "homeNav": "ホーム",
     "researchPageTitle": "教材・研究とWeb作品 | 小山 洋",
-    "researchPageDescription": "小山洋が公開する教材・研究記録・Web作品の一覧。宇宙物理、数値計算、光学、大学ノート、計算科学政策。",
+    "researchPageDescription": "小山洋が公開する教材・研究記録・Web作品の一覧。宇宙物理、数値計算、光学、Web作品。",
     "researchHeading": "教材・研究とWeb作品",
     "researchIntro": "式をたどり、図を動かし、コードで確かめる。公開中の教材、学びの記録、Web作品をまとめています。",
     "resources": "教材・図鑑",
@@ -67,9 +56,6 @@
     "backHome": "ポートフォリオへ戻る"
   },
   "en": {
-    "gordonAction": "Explore finalist papers, machines & performance →",
-    "gordonDescription": "A source-linked annual index of Gordon Bell candidates and historical competition entries, with DOI records, explicit coverage gaps, and selected manuscript performance details.",
-    "gordonResearchAction": "Explore the research archive",
     "moonCamera": "Nikon Z50 · NIKKOR Z DX 50–250mm f/4.5–6.3 VR",
     "moonExposure": "250mm · f/6.3 · 1/800 s · ISO 100",
     "moonTime": "Taken: 19 September 2021, 21:07:35 JST",
@@ -82,14 +68,6 @@
     "marketTitle": "Market Chart Atlas",
     "marketDescription": "Compare moving averages, MACD, RSI, and Bollinger Bands through formulas and real charts. Adjust periods to explore each method, its interpretation, and its limits.",
     "marketAction": "Explore the indicators",
-    "policyTitle": "Computing Policy Archive",
-    "policyDescription": "A record of two secondments to MEXT and related committee work, with public sources on HPCI, post-K, and AI for Science.",
-    "policyAction": "Explore the record",
-    "notesField": "Handwritten Notes",
-    "notesTitle": "College Notes",
-    "notesDescription": "41 notebooks and 1,170 handwritten pages from my student years. An archive preserving the equations, diagrams, and traces of learning, in the original Japanese.",
-    "notesAction": "Browse the notebooks",
-    "notesPaused": "Temporarily unavailable",
     "title": "koyamarium | Hiroshi Koyama",
     "skip": "Skip to portfolio",
     "headline": "koyamarium",
@@ -119,12 +97,12 @@
     "entryWriting": "Articles & essays",
     "entryWritingNote": "Science, AI and life in research. Articles in Japanese on note.",
     "entryResearch": "Learning & research",
-    "entryResearchNote": "Astrophysics, numerical methods, notebooks and web works.",
+    "entryResearchNote": "Astrophysics, numerical methods, optics and web works.",
     "entryBooks": "Books",
     "entryBooksNote": "From imagined worlds to life in research.",
     "homeNav": "Home",
     "researchPageTitle": "Learning, Research & Web Works | Hiroshi Koyama",
-    "researchPageDescription": "Learning resources, research records and web works by Hiroshi Koyama: astrophysics, numerical methods, optics, college notes and computing policy.",
+    "researchPageDescription": "Learning resources, research records and web works by Hiroshi Koyama: astrophysics, numerical methods, optics and web works.",
     "researchHeading": "Learning, research & web works",
     "researchIntro": "Follow an equation, adjust a figure and check an idea with code. Explore published learning resources, archives and web works.",
     "resources": "Learning resources & atlases",
@@ -169,7 +147,7 @@
   const requested = new URLSearchParams(location.search).get('lang');
   const lang = ['ja', 'en'].includes(requested) ? requested : saved === 'en' ? 'en' : 'ja';
   setLanguage(lang);
-  const legacy = { '#projects': 'resources', '#college-notes': 'college-notes' };
+  const legacy = { '#projects': 'resources' };
   if (!directory && legacy[location.hash]) {
     location.replace('/research/?lang=' + lang + '#' + legacy[location.hash]);
     return;
