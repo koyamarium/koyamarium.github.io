@@ -11,8 +11,6 @@
     "gearLink": "愛機リスト",
     "guideTitle": "数値計算・熱的不安定性の研究相談",
     "guideAction": "自分のLLMで相談する →",
-    "rootsDescription": "小山 洋から4代先に、湯川秀樹。いつものAIで自分の学術系譜を調べ、結果を貼り付けて系図や画像を作れます。",
-    "rootsAction": "自分のルーツを調べる",
     "entryPhotos": "写真",
     "entryPhotosNote": "自然、空の光、街の形。代表作品と写真集。",
     "marketTitle": "株価チャート・アトラス",
@@ -60,13 +58,12 @@
     "entryBooksNote": "物理の空想から研究者の暮らしまで。",
     "homeNav": "ホーム",
     "researchPageTitle": "教材・研究とWeb作品 | 小山 洋",
-    "researchPageDescription": "小山洋が公開する教材・研究記録・Web作品の一覧。宇宙物理、数値計算、光学、大学ノート、Academic Roots、計算科学政策。",
+    "researchPageDescription": "小山洋が公開する教材・研究記録・Web作品の一覧。宇宙物理、数値計算、光学、大学ノート、計算科学政策。",
     "researchHeading": "教材・研究とWeb作品",
     "researchIntro": "式をたどり、図を動かし、コードで確かめる。公開中の教材、学びの記録、Web作品をまとめています。",
     "resources": "教材・図鑑",
     "archives": "記録・Web作品",
     "researchSkip": "作品一覧へ進む",
-    "rootsTitle": "Academic Roots",
     "backHome": "ポートフォリオへ戻る"
   },
   "en": {
@@ -80,8 +77,6 @@
     "gearLink": "Gear I have used",
     "guideTitle": "Explore numerical methods & thermal instability",
     "guideAction": "Explore with your own LLM →",
-    "rootsDescription": "Four academic links from Hiroshi Koyama to Hideki Yukawa. Research your own lineage with your usual AI, then paste the result to create a family tree and image. Japanese interface.",
-    "rootsAction": "Explore your academic roots",
     "entryPhotos": "Photographs",
     "entryPhotosNote": "Nature, light and city shapes. Selected work and collections.",
     "marketTitle": "Market Chart Atlas",
@@ -129,13 +124,12 @@
     "entryBooksNote": "From imagined worlds to life in research.",
     "homeNav": "Home",
     "researchPageTitle": "Learning, Research & Web Works | Hiroshi Koyama",
-    "researchPageDescription": "Learning resources, research records and web works by Hiroshi Koyama: astrophysics, numerical methods, optics, college notes, academic roots and computing policy.",
+    "researchPageDescription": "Learning resources, research records and web works by Hiroshi Koyama: astrophysics, numerical methods, optics, college notes and computing policy.",
     "researchHeading": "Learning, research & web works",
     "researchIntro": "Follow an equation, adjust a figure and check an idea with code. Explore published learning resources, archives and web works.",
     "resources": "Learning resources & atlases",
     "archives": "Archives & web works",
     "researchSkip": "Skip to the works",
-    "rootsTitle": "Academic Roots",
     "backHome": "Back to the portfolio"
   }
 };
@@ -175,7 +169,7 @@
   const requested = new URLSearchParams(location.search).get('lang');
   const lang = ['ja', 'en'].includes(requested) ? requested : saved === 'en' ? 'en' : 'ja';
   setLanguage(lang);
-  const legacy = { '#projects': 'resources', '#college-notes': 'college-notes', '#academic-roots': 'academic-roots' };
+  const legacy = { '#projects': 'resources', '#college-notes': 'college-notes' };
   if (!directory && legacy[location.hash]) {
     location.replace('/research/?lang=' + lang + '#' + legacy[location.hash]);
     return;
