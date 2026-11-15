@@ -6,7 +6,7 @@ The homepage is a compact public portfolio: a short author introduction and one 
 
 - [Optical Atlas — 光学系のギャラリー](https://koyamarium.github.io/optics/) (Japanese)
 
-It also links to the author's researchmap (`https://researchmap.jp/read0200749`), ORCID (0009-0003-7503-4715), Google Scholar, LinkedIn, and ResearchGate profiles. Japanese and English are available using the language buttons or `?lang=ja` / `?lang=en`. The selected language follows links to the bilingual projects.
+Japanese and English are available using the language buttons or `?lang=ja` / `?lang=en`. The selected language follows links to the bilingual projects.
 
 
 ## Books
