@@ -2,9 +2,8 @@
 
 Personal project index: **https://koyamarium.github.io/**
 
-The homepage is a compact public portfolio: a short author introduction and one photograph, four direct entry points (**Articles & essays**, **Learning & research**, **Books**, and **Photographs**), the public contact email. Articles lead to the public note profile, Koyamax (`https://note.com/hr_koyama`); the English entry explicitly labels those articles as Japanese. The language switch translates portfolio introductions, not the external note articles. In English the entry order is learning/research, books, photographs, then Japanese articles; Japanese retains articles first. Displayed numbers and keyboard order follow the selected language. Learning and research lead to `/research/`, which lists three published resources and web works, including the projects below:
+The homepage is a compact public portfolio: a short author introduction and one photograph, four direct entry points (**Articles & essays**, **Learning & research**, **Books**, and **Photographs**), the public contact email. Articles lead to the public note profile, Koyamax (`https://note.com/hr_koyama`); the English entry explicitly labels those articles as Japanese. The language switch translates portfolio introductions, not the external note articles. In English the entry order is learning/research, books, photographs, then Japanese articles; Japanese retains articles first. Displayed numbers and keyboard order follow the selected language. Learning and research lead to `/research/`, which lists two published resources and web works, including the projects below:
 
-- [Theoretical Astrophysics, Step by Step](https://koyamarium.github.io/astronomy-step-by-step/)
 - [Optical Atlas — 光学系のギャラリー](https://koyamarium.github.io/optics/) (Japanese)
 
 It also links to the author's researchmap (`https://researchmap.jp/read0200749`), ORCID (0009-0003-7503-4715), Google Scholar, LinkedIn, and ResearchGate profiles. Japanese and English are available using the language buttons or `?lang=ja` / `?lang=en`. The selected language follows links to the bilingual projects.

@@ -4,7 +4,6 @@
 
 - [Home](https://koyamarium.github.io/): Portfolio entry points and public contact.
 - [Learning & web works](https://koyamarium.github.io/research/): Current public learning resources and web works.
-- [Theoretical astrophysics](https://koyamarium.github.io/astronomy-step-by-step/): Bilingual teaching materials.
 - [Optical systems](https://koyamarium.github.io/optics/): Optical-system gallery.
 - [Market Chart Atlas](https://koyamarium.github.io/market-chart-atlas/): Educational technical-indicator gallery; retrospective examples are not investment recommendations.
 - [Books](https://koyamarium.github.io/books/): Book descriptions and external purchase/sample links.

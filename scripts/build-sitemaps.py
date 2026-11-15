@@ -72,7 +72,7 @@ def main():
         existing_urls.add(url)
     write('sitemap-main.xml', urlset)
     index = ET.Element(f'{{{NS}}}sitemapindex')
-    for path in ['sitemap-main.xml', 'astronomy-step-by-step/sitemap.xml']:
+    for path in ['sitemap-main.xml']:
         item = ET.SubElement(index, f'{{{NS}}}sitemap')
         ET.SubElement(item, f'{{{NS}}}loc').text = BASE + path
     write('sitemap.xml', index)
