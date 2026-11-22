@@ -1,0 +1,1109 @@
+{
+  "photographer": "Hiroshi Koyama",
+  "title": {
+    "ja": "旅と発見",
+    "en": "Journeys and discoveries"
+  },
+  "photos": [
+    {
+      "date": "2008-11-14",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0015625,
+      "aperture": 5.6,
+      "iso": 500,
+      "focal_length_mm": 340,
+      "width": 1075,
+      "height": 1600,
+      "slug": "p01",
+      "title": {
+        "ja": "夜のシャトル打ち上げ",
+        "en": "A shuttle launch at night"
+      },
+      "alt": {
+        "ja": "夜空の下で、発射台の煙の上へ姿を現すスペースシャトル。",
+        "en": "A space shuttle emerging above clouds of smoke during a night launch."
+      },
+      "image": "images/p01.jpg",
+      "thumbnail": "images/p01-800.jpg",
+      "thumbnail_width": 538,
+      "chapter": "science"
+    },
+    {
+      "date": "2008-11-14",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0015625,
+      "aperture": 5.6,
+      "iso": 500,
+      "focal_length_mm": 340,
+      "width": 1032,
+      "height": 1600,
+      "slug": "p02",
+      "title": {
+        "ja": "炎を引いて上昇",
+        "en": "Climbing on a trail of fire"
+      },
+      "alt": {
+        "ja": "暗い空へ上昇する機体と、下へ長く伸びる明るい炎。",
+        "en": "A shuttle climbing into the dark sky above a long, bright exhaust plume."
+      },
+      "image": "images/p02.jpg",
+      "thumbnail": "images/p02-800.jpg",
+      "thumbnail_width": 516,
+      "chapter": "science"
+    },
+    {
+      "date": "2008-11-14",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.06666666666666667,
+      "aperture": 4.8,
+      "iso": 1600,
+      "focal_length_mm": 340,
+      "width": 1600,
+      "height": 1062,
+      "slug": "p03",
+      "title": {
+        "ja": "月と発射場の鉄塔",
+        "en": "The Moon above the launch site"
+      },
+      "alt": {
+        "ja": "橙色の月のそばに、発射場の明かりを受けた鉄塔が浮かぶ。",
+        "en": "An orange Moon beside a brightly lit tower at the launch site."
+      },
+      "image": "images/p03.jpg",
+      "thumbnail": "images/p03-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "science"
+    },
+    {
+      "date": "2004-08-29",
+      "camera": "EX-S20 ",
+      "exposure_seconds": 0.000625,
+      "aperture": 3.5,
+      "focal_length_mm": 5.6,
+      "width": 640,
+      "height": 480,
+      "slug": "p04",
+      "title": {
+        "ja": "アレシボの大反射鏡",
+        "en": "The great reflector at Arecibo"
+      },
+      "alt": {
+        "ja": "森に囲まれた大反射鏡と、その上に吊られたアレシボの受信設備。",
+        "en": "The great Arecibo reflector and its suspended receiver structure above the surrounding forest."
+      },
+      "image": "images/p04.jpg",
+      "thumbnail": "images/p04-800.jpg",
+      "thumbnail_width": 640,
+      "chapter": "science"
+    },
+    {
+      "date": "2004-08-31",
+      "camera": "EX-S20 ",
+      "exposure_seconds": 0.016666666666666666,
+      "aperture": 3.5,
+      "focal_length_mm": 5.6,
+      "width": 640,
+      "height": 480,
+      "slug": "p05",
+      "title": {
+        "ja": "反射鏡の下の緑",
+        "en": "Green beneath the reflector"
+      },
+      "alt": {
+        "ja": "アレシボの反射鏡を下から見上げる、金属の格子と緑の植物。",
+        "en": "Metal latticework and green plants beneath the Arecibo reflector."
+      },
+      "image": "images/p05.jpg",
+      "thumbnail": "images/p05-800.jpg",
+      "thumbnail_width": 640,
+      "chapter": "science"
+    },
+    {
+      "date": "2009-11-15",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.0025,
+      "aperture": 10,
+      "iso": 800,
+      "focal_length_mm": 18,
+      "width": 1504,
+      "height": 1000,
+      "slug": "p06",
+      "title": {
+        "ja": "天井の軌道模型",
+        "en": "Circles beneath a glass roof"
+      },
+      "alt": {
+        "ja": "ガラス張りの天井の下に吊られた、大きな円環と球体の模型。",
+        "en": "A large circular model and spheres suspended beneath a glass roof."
+      },
+      "image": "images/p06.jpg",
+      "thumbnail": "images/p06-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "science"
+    },
+    {
+      "date": "2019-11-18",
+      "camera": "iPhone 6s",
+      "exposure_seconds": 0.03333333333333333,
+      "aperture": 2.2,
+      "iso": 50,
+      "focal_length_mm": 4.15,
+      "width": 1200,
+      "height": 1600,
+      "slug": "p07",
+      "title": {
+        "ja": "計算機の回路",
+        "en": "Inside the computer"
+      },
+      "alt": {
+        "ja": "ガラス越しに見える、緑の基板と銅色の部品が並ぶ計算機の内部。",
+        "en": "Green circuit boards and copper-colored components inside a computer display."
+      },
+      "image": "images/p07.jpg",
+      "thumbnail": "images/p07-800.jpg",
+      "thumbnail_width": 600,
+      "chapter": "science"
+    },
+    {
+      "date": "2019-11-21",
+      "camera": "iPhone 6s",
+      "exposure_seconds": 0.06666666666666667,
+      "aperture": 2.2,
+      "iso": 320,
+      "focal_length_mm": 4.15,
+      "width": 1600,
+      "height": 1200,
+      "slug": "p08",
+      "title": {
+        "ja": "展示機のコックピット",
+        "en": "A cockpit on display"
+      },
+      "alt": {
+        "ja": "展示室の照明を受ける航空機の機首と、開いたコックピット。",
+        "en": "An aircraft nose and open cockpit under the lights of an exhibition hall."
+      },
+      "image": "images/p08.jpg",
+      "thumbnail": "images/p08-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "science"
+    },
+    {
+      "date": "2008-10-12",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.004,
+      "aperture": 10,
+      "iso": 280,
+      "focal_length_mm": 55,
+      "width": 1600,
+      "height": 1061,
+      "slug": "p09",
+      "title": {
+        "ja": "緑の土塁と城",
+        "en": "A castle beyond the green earthworks"
+      },
+      "alt": {
+        "ja": "緑の土塁の向こうに立つ、二つの尖塔を持つ城。",
+        "en": "A castle with two slender spires beyond green earthworks."
+      },
+      "image": "images/p09.jpg",
+      "thumbnail": "images/p09-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "nordic"
+    },
+    {
+      "date": "2008-10-12",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.00625,
+      "aperture": 9,
+      "iso": 400,
+      "focal_length_mm": 18,
+      "width": 1061,
+      "height": 1600,
+      "slug": "p10",
+      "title": {
+        "ja": "窓越しの中庭",
+        "en": "A courtyard through the window"
+      },
+      "alt": {
+        "ja": "黒い窓枠の向こうに見える、城の中庭と塔。",
+        "en": "A castle courtyard and tower framed by a dark window grid."
+      },
+      "image": "images/p10.jpg",
+      "thumbnail": "images/p10-800.jpg",
+      "thumbnail_width": 530,
+      "chapter": "nordic"
+    },
+    {
+      "date": "2008-10-12",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.004,
+      "aperture": 7.1,
+      "iso": 320,
+      "focal_length_mm": 10.5,
+      "width": 1062,
+      "height": 1600,
+      "slug": "p11",
+      "title": {
+        "ja": "アーチ越しの水路",
+        "en": "Water through an archway"
+      },
+      "alt": {
+        "ja": "魚眼で捉えた石のアーチと、その先に続く水路。",
+        "en": "A fisheye view through a stone archway toward a waterway."
+      },
+      "image": "images/p11.jpg",
+      "thumbnail": "images/p11-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "nordic"
+    },
+    {
+      "date": "2008-10-12",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0015625,
+      "aperture": 9,
+      "iso": 500,
+      "focal_length_mm": 10.5,
+      "width": 1062,
+      "height": 1600,
+      "slug": "p12",
+      "title": {
+        "ja": "城へ続く石畳",
+        "en": "The cobbled way to the castle"
+      },
+      "alt": {
+        "ja": "水路に沿って城の門へ続く、石畳の道。",
+        "en": "A cobbled path leading beside a waterway toward the castle gate."
+      },
+      "image": "images/p12.jpg",
+      "thumbnail": "images/p12-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "nordic"
+    },
+    {
+      "date": "2008-10-12",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0007999999797896869,
+      "aperture": 7.1,
+      "iso": 320,
+      "focal_length_mm": 10.5,
+      "width": 1600,
+      "height": 1062,
+      "slug": "p13",
+      "title": {
+        "ja": "丸く広がる海辺",
+        "en": "A curve of coast and sky"
+      },
+      "alt": {
+        "ja": "魚眼で大きく弧を描く海辺の道と、雲の浮かぶ青空。",
+        "en": "A coastal path curving across a fisheye view beneath a cloud-filled blue sky."
+      },
+      "image": "images/p13.jpg",
+      "thumbnail": "images/p13-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "nordic"
+    },
+    {
+      "date": "2008-10-12",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.004,
+      "aperture": 10,
+      "iso": 220,
+      "focal_length_mm": 18,
+      "width": 1061,
+      "height": 1600,
+      "slug": "p14",
+      "title": {
+        "ja": "見上げた塔と青空",
+        "en": "Looking up at the tower"
+      },
+      "alt": {
+        "ja": "明るい石壁の間から見上げる塔と青空。",
+        "en": "A tower and blue sky seen between pale stone walls."
+      },
+      "image": "images/p14.jpg",
+      "thumbnail": "images/p14-800.jpg",
+      "thumbnail_width": 530,
+      "chapter": "nordic"
+    },
+    {
+      "date": "2008-10-12",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.001,
+      "aperture": 5.6,
+      "iso": 280,
+      "focal_length_mm": 200,
+      "width": 1061,
+      "height": 1600,
+      "slug": "p15",
+      "title": {
+        "ja": "城壁の大砲",
+        "en": "Cannons on the rampart"
+      },
+      "alt": {
+        "ja": "レンガの城壁の上に、横一列に並ぶ大砲。",
+        "en": "Cannons lined up above a brick rampart."
+      },
+      "image": "images/p15.jpg",
+      "thumbnail": "images/p15-800.jpg",
+      "thumbnail_width": 530,
+      "chapter": "nordic"
+    },
+    {
+      "date": "2008-10-11",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.005,
+      "aperture": 5.6,
+      "iso": 400,
+      "focal_length_mm": 200,
+      "width": 1061,
+      "height": 1600,
+      "slug": "p16",
+      "title": {
+        "ja": "港のマスト",
+        "en": "Masts in the harbor"
+      },
+      "alt": {
+        "ja": "静かな港に並ぶ帆船のマストと、その手前の石畳。",
+        "en": "Sailing-boat masts in a quiet harbor beyond a cobbled quay."
+      },
+      "image": "images/p16.jpg",
+      "thumbnail": "images/p16-800.jpg",
+      "thumbnail_width": 530,
+      "chapter": "nordic"
+    },
+    {
+      "date": "2015-03-20",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.004,
+      "aperture": 10,
+      "iso": 200,
+      "focal_length_mm": 18,
+      "width": 1600,
+      "height": 1061,
+      "slug": "p17",
+      "title": {
+        "ja": "シンガポールの湾岸",
+        "en": "On the Singapore waterfront"
+      },
+      "alt": {
+        "ja": "湾の向こうに広がる、シンガポールの特徴的な建築群。",
+        "en": "Distinctive Singapore buildings seen across the bay."
+      },
+      "image": "images/p17.jpg",
+      "thumbnail": "images/p17-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "streets"
+    },
+    {
+      "date": "2015-03-20",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.004,
+      "aperture": 10,
+      "iso": 280,
+      "focal_length_mm": 18,
+      "width": 1061,
+      "height": 1600,
+      "slug": "p18",
+      "title": {
+        "ja": "高層ビルの曲線",
+        "en": "Curves among the towers"
+      },
+      "alt": {
+        "ja": "周囲の高層ビルの間から見上げる、曲線を描く塔。",
+        "en": "A curved tower seen looking up between neighboring high-rise buildings."
+      },
+      "image": "images/p18.jpg",
+      "thumbnail": "images/p18-800.jpg",
+      "thumbnail_width": 530,
+      "chapter": "streets"
+    },
+    {
+      "date": "2011-11-15",
+      "camera": "iPhone 4S",
+      "exposure_seconds": 0.06666666666666667,
+      "aperture": 2.4,
+      "iso": 800,
+      "focal_length_mm": 4.28,
+      "width": 1200,
+      "height": 1600,
+      "slug": "p19",
+      "title": {
+        "ja": "ガラスのアーチと夜景",
+        "en": "A glass arch at night"
+      },
+      "alt": {
+        "ja": "金色に照らされたガラスのアーチと、その向こうの青い夜空。",
+        "en": "A warmly lit glass arch framing a deep blue evening sky."
+      },
+      "image": "images/p19.jpg",
+      "thumbnail": "images/p19-800.jpg",
+      "thumbnail_width": 600,
+      "chapter": "streets"
+    },
+    {
+      "date": "2011-11-16",
+      "camera": "iPhone 4S",
+      "exposure_seconds": 0.05,
+      "aperture": 2.4,
+      "iso": 200,
+      "focal_length_mm": 4.28,
+      "width": 1600,
+      "height": 1200,
+      "slug": "p20",
+      "title": {
+        "ja": "雨上がりの夜の街",
+        "en": "A city street after the rain"
+      },
+      "alt": {
+        "ja": "雨上がりの路面に、街灯や店の明かりが反射する夜の街。",
+        "en": "Street and shop lights reflected on wet paving after the rain."
+      },
+      "image": "images/p20.jpg",
+      "thumbnail": "images/p20-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "streets"
+    },
+    {
+      "date": "2011-11-15",
+      "camera": "iPhone 4S",
+      "exposure_seconds": 0.002136752136752137,
+      "aperture": 2.4,
+      "iso": 64,
+      "focal_length_mm": 4.28,
+      "width": 1600,
+      "height": 1200,
+      "slug": "p21",
+      "title": {
+        "ja": "坂道の先の光",
+        "en": "Light at the end of the hill"
+      },
+      "alt": {
+        "ja": "光の当たる建物の間を、坂道が遠くへ下っていく。",
+        "en": "A steep street descending between buildings lit by low sunlight."
+      },
+      "image": "images/p21.jpg",
+      "thumbnail": "images/p21-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "streets"
+    },
+    {
+      "date": "2011-11-15",
+      "camera": "iPhone 4S",
+      "exposure_seconds": 0.002898550724637681,
+      "aperture": 2.4,
+      "iso": 64,
+      "focal_length_mm": 4.28,
+      "width": 1200,
+      "height": 1600,
+      "slug": "p22",
+      "title": {
+        "ja": "秋の美術館",
+        "en": "The museum in autumn"
+      },
+      "alt": {
+        "ja": "秋の木の枝と展示の垂れ幕に縁取られた、美術館の入口。",
+        "en": "A museum entrance framed by autumn branches and exhibition banners."
+      },
+      "image": "images/p22.jpg",
+      "thumbnail": "images/p22-800.jpg",
+      "thumbnail_width": 600,
+      "chapter": "streets"
+    },
+    {
+      "date": "2014-11-16",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.005,
+      "aperture": 7.1,
+      "iso": 200,
+      "focal_length_mm": 24,
+      "width": 1504,
+      "height": 1000,
+      "slug": "p23",
+      "title": {
+        "ja": "バルコニーと馬車",
+        "en": "Balconies and a horse-drawn carriage"
+      },
+      "alt": {
+        "ja": "花や旗で飾られたバルコニーのある街角を、馬車が通る。",
+        "en": "A horse-drawn carriage passing a corner with flower-filled balconies and flags."
+      },
+      "image": "images/p23.jpg",
+      "thumbnail": "images/p23-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "streets"
+    },
+    {
+      "date": "2019-11-18",
+      "camera": "iPhone 6s",
+      "exposure_seconds": 0.0011185682326621924,
+      "aperture": 2.2,
+      "iso": 25,
+      "focal_length_mm": 4.15,
+      "width": 1200,
+      "height": 1600,
+      "slug": "p24",
+      "title": {
+        "ja": "金色のドームと青空",
+        "en": "A golden dome against blue skies"
+      },
+      "alt": {
+        "ja": "木々と芝生の向こうに立つ、金色のドームを持つ建物。",
+        "en": "A building with a golden dome beyond trees and lawns under a blue sky."
+      },
+      "image": "images/p24.jpg",
+      "thumbnail": "images/p24-800.jpg",
+      "thumbnail_width": 600,
+      "chapter": "streets"
+    },
+    {
+      "date": "2010-04-28",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.125,
+      "aperture": 9,
+      "iso": 200,
+      "focal_length_mm": 10.5,
+      "width": 1600,
+      "height": 1062,
+      "slug": "p25",
+      "title": {
+        "ja": "緑の谷に落ちる滝",
+        "en": "A waterfall in a green valley"
+      },
+      "alt": {
+        "ja": "緑の木々と岩に囲まれた滝壺へ、白い流れが落ちる。",
+        "en": "A white waterfall dropping into a pool surrounded by green foliage and rock."
+      },
+      "image": "images/p25.jpg",
+      "thumbnail": "images/p25-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "mountains"
+    },
+    {
+      "date": "2007-03-19",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.16666666666666666,
+      "aperture": 22,
+      "iso": 100,
+      "focal_length_mm": 98,
+      "width": 1287,
+      "height": 854,
+      "slug": "p26",
+      "title": {
+        "ja": "岩を伝う白い流れ",
+        "en": "White water over stone"
+      },
+      "alt": {
+        "ja": "濡れた岩の割れ目を伝い、白く流れ落ちる水。",
+        "en": "White water running through crevices in wet stone."
+      },
+      "image": "images/p26.jpg",
+      "thumbnail": "images/p26-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "mountains"
+    },
+    {
+      "date": "2005-10-09",
+      "camera": "EX-S20 ",
+      "exposure_seconds": 0.00125,
+      "aperture": 3.5,
+      "focal_length_mm": 5.6,
+      "width": 1280,
+      "height": 960,
+      "slug": "p27",
+      "title": {
+        "ja": "雪の山と青空",
+        "en": "Snow on the mountain"
+      },
+      "alt": {
+        "ja": "青空の下に広がる、雪の残る山肌と斜面の道。",
+        "en": "A mountain with lingering snow and a path across its slopes under blue skies."
+      },
+      "image": "images/p27.jpg",
+      "thumbnail": "images/p27-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "mountains"
+    },
+    {
+      "date": "2001-08-18",
+      "camera": "CYBERSHOT",
+      "exposure_seconds": 0.004366812227074236,
+      "aperture": 5.6,
+      "iso": 100,
+      "focal_length_mm": 24,
+      "width": 1600,
+      "height": 1200,
+      "slug": "p28",
+      "title": {
+        "ja": "雲海の日の出",
+        "en": "Sunrise above a sea of clouds"
+      },
+      "alt": {
+        "ja": "雲海の向こうから朝日が昇り、空を金色に染める。",
+        "en": "The Sun rising above a sea of clouds into a golden sky."
+      },
+      "image": "images/p28.jpg",
+      "thumbnail": "images/p28-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "mountains"
+    },
+    {
+      "date": "2012-07-07",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.008,
+      "aperture": 3.5,
+      "iso": 800,
+      "focal_length_mm": 18,
+      "width": 1061,
+      "height": 1600,
+      "slug": "p29",
+      "title": {
+        "ja": "杉林の縦のリズム",
+        "en": "The rhythm of tall trees"
+      },
+      "alt": {
+        "ja": "山道のそばにまっすぐ立ち並ぶ、細く高い木々。",
+        "en": "Tall, slender trees standing in parallel beside a mountain path."
+      },
+      "image": "images/p29.jpg",
+      "thumbnail": "images/p29-800.jpg",
+      "thumbnail_width": 530,
+      "chapter": "mountains"
+    },
+    {
+      "date": "2012-07-07",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.001,
+      "aperture": 4,
+      "iso": 250,
+      "focal_length_mm": 18,
+      "width": 1061,
+      "height": 1600,
+      "slug": "p30",
+      "title": {
+        "ja": "車窓から続く線路",
+        "en": "Rails beyond the train window"
+      },
+      "alt": {
+        "ja": "山あいへ続く線路を、列車の窓越しに眺める。",
+        "en": "Railway tracks leading into the mountains, seen from a train window."
+      },
+      "image": "images/p30.jpg",
+      "thumbnail": "images/p30-800.jpg",
+      "thumbnail_width": 530,
+      "chapter": "mountains"
+    },
+    {
+      "date": "2012-07-07",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.001,
+      "aperture": 5,
+      "iso": 280,
+      "focal_length_mm": 56,
+      "width": 1600,
+      "height": 1061,
+      "slug": "p31",
+      "title": {
+        "ja": "山あいの貨車",
+        "en": "Freight cars in the mountains"
+      },
+      "alt": {
+        "ja": "緑の山と小さな建物のそばに停まる貨車。",
+        "en": "Freight cars beside small buildings and green mountains."
+      },
+      "image": "images/p31.jpg",
+      "thumbnail": "images/p31-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "mountains"
+    },
+    {
+      "date": "2011-12-04",
+      "camera": "iPhone 4S",
+      "exposure_seconds": 0.0008688097306689834,
+      "aperture": 2.4,
+      "iso": 64,
+      "focal_length_mm": 4.28,
+      "width": 1600,
+      "height": 1200,
+      "slug": "p32",
+      "title": {
+        "ja": "黄金色の並木道",
+        "en": "A golden avenue"
+      },
+      "alt": {
+        "ja": "黄色い葉が道を覆い、並木の影が長く伸びる。",
+        "en": "Yellow leaves covering a tree-lined path crossed by long shadows."
+      },
+      "image": "images/p32.jpg",
+      "thumbnail": "images/p32-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "mountains"
+    },
+    {
+      "date": "2022-10-01",
+      "camera": "NIKON Z 50",
+      "exposure_seconds": 0.001,
+      "aperture": 6.3,
+      "iso": 1800,
+      "focal_length_mm": 250,
+      "width": 1600,
+      "height": 1066,
+      "slug": "p33",
+      "title": {
+        "ja": "群れの間のキリン",
+        "en": "A giraffe between the herd"
+      },
+      "alt": {
+        "ja": "手前のキリンの模様の間から、奥の一頭が顔を見せる。",
+        "en": "A giraffe looking through a gap between the patterned bodies of the herd."
+      },
+      "image": "images/p33.jpg",
+      "thumbnail": "images/p33-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "creatures"
+    },
+    {
+      "date": "2009-03-15",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.0025,
+      "aperture": 5.6,
+      "iso": 800,
+      "focal_length_mm": 200,
+      "width": 1600,
+      "height": 1061,
+      "slug": "p34",
+      "title": {
+        "ja": "木陰のうさぎ",
+        "en": "A rabbit in the shade"
+      },
+      "alt": {
+        "ja": "木陰の地面に座る、灰色のうさぎ。",
+        "en": "A gray rabbit sitting on the ground in the shade."
+      },
+      "image": "images/p34.jpg",
+      "thumbnail": "images/p34-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "creatures"
+    },
+    {
+      "date": "2022-10-01",
+      "camera": "NIKON Z 50",
+      "exposure_seconds": 0.001,
+      "aperture": 6.3,
+      "iso": 16000,
+      "focal_length_mm": 250,
+      "width": 1600,
+      "height": 1066,
+      "slug": "p35",
+      "title": {
+        "ja": "木の上のレッサーパンダ",
+        "en": "A red panda among the branches"
+      },
+      "alt": {
+        "ja": "葉の茂る木の枝を歩く、赤茶色のレッサーパンダ。",
+        "en": "A red panda moving along leafy branches."
+      },
+      "image": "images/p35.jpg",
+      "thumbnail": "images/p35-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "creatures"
+    },
+    {
+      "date": "2006-06-10",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.002857142857142857,
+      "aperture": 4.5,
+      "iso": 400,
+      "focal_length_mm": 60,
+      "width": 1600,
+      "height": 1062,
+      "slug": "p36",
+      "title": {
+        "ja": "水面に映るハト",
+        "en": "A pigeon and its reflection"
+      },
+      "alt": {
+        "ja": "水の張った縁で、ハトとその姿が向かい合う。",
+        "en": "A pigeon standing beside its reflection on a shallow reflective surface."
+      },
+      "image": "images/p36.jpg",
+      "thumbnail": "images/p36-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "creatures"
+    },
+    {
+      "date": "2008-06-02",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.001,
+      "aperture": 5,
+      "iso": 250,
+      "focal_length_mm": 200,
+      "width": 1600,
+      "height": 1062,
+      "slug": "p37",
+      "title": {
+        "ja": "草地を飛び立つ群れ",
+        "en": "Taking flight from the grass"
+      },
+      "alt": {
+        "ja": "緑の草地から、翼を広げた鳥の群れが飛び立つ。",
+        "en": "A flock spreading its wings and taking flight from green grass."
+      },
+      "image": "images/p37.jpg",
+      "thumbnail": "images/p37-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "creatures"
+    },
+    {
+      "date": "2024-11-21",
+      "camera": "iPhone 12",
+      "exposure_seconds": 0.020833333333333332,
+      "aperture": 1.6,
+      "iso": 250,
+      "focal_length_mm": 4.2,
+      "width": 1200,
+      "height": 1600,
+      "slug": "p38",
+      "title": {
+        "ja": "青い水槽の群れ",
+        "en": "Life in a blue aquarium"
+      },
+      "alt": {
+        "ja": "青い水槽の中を、ジンベエザメと魚の群れが泳ぐ。",
+        "en": "A whale shark swimming with schools of fish through a blue aquarium."
+      },
+      "image": "images/p38.jpg",
+      "thumbnail": "images/p38-800.jpg",
+      "thumbnail_width": 600,
+      "chapter": "creatures"
+    },
+    {
+      "date": "2007-02-18",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.008,
+      "aperture": 5.6,
+      "iso": 200,
+      "focal_length_mm": 180,
+      "width": 1600,
+      "height": 1062,
+      "slug": "p39",
+      "title": {
+        "ja": "冬の枝の小鳥",
+        "en": "A bird on a winter branch"
+      },
+      "alt": {
+        "ja": "葉の落ちた細い枝の間にとまる、小さな鳥。",
+        "en": "A small bird perched among slender bare branches."
+      },
+      "image": "images/p39.jpg",
+      "thumbnail": "images/p39-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "creatures"
+    },
+    {
+      "date": "2007-08-24",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.04,
+      "aperture": 3.2,
+      "iso": 800,
+      "focal_length_mm": 60,
+      "width": 1062,
+      "height": 1600,
+      "slug": "p40",
+      "title": {
+        "ja": "窓辺でひと休み",
+        "en": "Resting by the window"
+      },
+      "alt": {
+        "ja": "窓辺の床に顎をのせて休む犬。",
+        "en": "A dog resting its chin on the floor beside a window."
+      },
+      "image": "images/p40.jpg",
+      "thumbnail": "images/p40-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "creatures"
+    },
+    {
+      "date": "2001-09-24",
+      "camera": "CYBERSHOT",
+      "exposure_seconds": 0.06666666666666667,
+      "aperture": 5.6,
+      "iso": 209,
+      "focal_length_mm": 24,
+      "width": 1600,
+      "height": 1200,
+      "slug": "p41",
+      "title": {
+        "ja": "海を染める桃色の空",
+        "en": "Pink light over the sea"
+      },
+      "alt": {
+        "ja": "手すりの向こうの海と島影の上で、雲が桃色に染まる。",
+        "en": "Pink clouds above the sea and distant islands, seen beyond a railing."
+      },
+      "image": "images/p41.jpg",
+      "thumbnail": "images/p41-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "light"
+    },
+    {
+      "date": "2008-05-24",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0013333333333333333,
+      "aperture": 5.6,
+      "iso": 200,
+      "focal_length_mm": 18,
+      "width": 1047,
+      "height": 1576,
+      "slug": "p42",
+      "title": {
+        "ja": "壁の記憶・モノクロ",
+        "en": "Memories on the wall"
+      },
+      "alt": {
+        "ja": "古い建物の壁と道を写した、モノクロの街角。",
+        "en": "A monochrome street scene with a weathered wall and an old building."
+      },
+      "image": "images/p42.jpg",
+      "thumbnail": "images/p42-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "light"
+    },
+    {
+      "date": "2019-11-19",
+      "camera": "iPhone 6s",
+      "exposure_seconds": 0.03333333333333333,
+      "aperture": 2.2,
+      "iso": 125,
+      "focal_length_mm": 4.15,
+      "width": 1200,
+      "height": 1600,
+      "slug": "p43",
+      "title": {
+        "ja": "金色を映すビル",
+        "en": "Buildings reflecting gold"
+      },
+      "alt": {
+        "ja": "夕空の金色を映すガラスのビルと、その足元の街。",
+        "en": "Glass buildings reflecting golden light above the city below."
+      },
+      "image": "images/p43.jpg",
+      "thumbnail": "images/p43-800.jpg",
+      "thumbnail_width": 600,
+      "chapter": "light"
+    },
+    {
+      "date": "2006-02-17",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.02,
+      "aperture": 14,
+      "iso": 200,
+      "focal_length_mm": 200,
+      "width": 1062,
+      "height": 1600,
+      "slug": "p44",
+      "title": {
+        "ja": "窓越しの飛行機",
+        "en": "An aircraft through the window"
+      },
+      "alt": {
+        "ja": "窓越しの光の中で、空港の地上を進む飛行機。",
+        "en": "An aircraft on the ground at an airport, seen through a sunlit window."
+      },
+      "image": "images/p44.jpg",
+      "thumbnail": "images/p44-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "light"
+    },
+    {
+      "date": "2011-10-04",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.004,
+      "aperture": 8,
+      "iso": 200,
+      "focal_length_mm": 50,
+      "width": 1600,
+      "height": 1061,
+      "slug": "p45",
+      "title": {
+        "ja": "南国の赤い花",
+        "en": "A red tropical flower"
+      },
+      "alt": {
+        "ja": "緑の葉と明るい道のそばに咲く、鮮やかな赤い花。",
+        "en": "A vivid red flower beside green leaves and a sunlit path."
+      },
+      "image": "images/p45.jpg",
+      "thumbnail": "images/p45-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "light"
+    },
+    {
+      "date": "2009-05-09",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.002857142857142857,
+      "aperture": 9.5,
+      "iso": 500,
+      "focal_length_mm": 60,
+      "width": 1062,
+      "height": 1600,
+      "slug": "p46",
+      "title": {
+        "ja": "青紫の花と葉",
+        "en": "Blue-violet petals and leaves"
+      },
+      "alt": {
+        "ja": "長い緑の葉の間から顔を出す、青紫色の花。",
+        "en": "Blue-violet flowers among long green leaves."
+      },
+      "image": "images/p46.jpg",
+      "thumbnail": "images/p46-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "light"
+    },
+    {
+      "date": "2007-03-29",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.001,
+      "aperture": 5.6,
+      "iso": 200,
+      "focal_length_mm": 70,
+      "width": 1576,
+      "height": 1046,
+      "slug": "p47",
+      "title": {
+        "ja": "時計台と桜",
+        "en": "Cherry blossoms and the clock tower"
+      },
+      "alt": {
+        "ja": "青空の下、白い時計台の前に広がる桜の花。",
+        "en": "Cherry blossoms spreading in front of a white clock tower under blue skies."
+      },
+      "image": "images/p47.jpg",
+      "thumbnail": "images/p47-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "light"
+    },
+    {
+      "date": "2004-09-03",
+      "camera": "EX-S20 ",
+      "exposure_seconds": 0.001,
+      "aperture": 3.5,
+      "focal_length_mm": 5.6,
+      "width": 640,
+      "height": 480,
+      "slug": "p48",
+      "title": {
+        "ja": "旧市街と海",
+        "en": "The old town and the sea"
+      },
+      "alt": {
+        "ja": "海を見下ろす、石壁と緑の広場のある旧市街。",
+        "en": "An old coastal town with stone walls and green open spaces overlooking the sea."
+      },
+      "image": "images/p48.jpg",
+      "thumbnail": "images/p48-800.jpg",
+      "thumbnail_width": 640,
+      "chapter": "light"
+    }
+  ]
+}
