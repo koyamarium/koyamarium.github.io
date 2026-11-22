@@ -59,13 +59,18 @@ Example: `/market-chart-atlas/?lang=ja&indicator=macd&fast=12&slow=26&signal=9#n
 
 ## Photographs
 
-`photographs/` is Hiroshi Koyama’s bilingual photography portfolio, led by eight selected photographs across nature, light, architecture and an observatory. The compact homepage presents the author, one selected photograph and four direct entry points: articles, learning/research, books and photographs. The 2007–2008 American travel collection is separate at `photographs/america/`, linked from Series.
+`photographs/` is Hiroshi Koyama’s bilingual photography portfolio, led by eight selected photographs across nature, light, architecture and an observatory. The compact homepage presents the author, one selected photograph and four direct entry points: articles, learning/research, books and photographs. Series links to the existing 2007–2008 American travel collection at `photographs/america/` and two additional collections approved for publication on 2026-11-22:
+
+- `photographs/washington/`: 24 photographs of Washington, D.C. and nearby in 2008, with chapters on night scenes, monuments, street details and waterside seasons.
+- `photographs/nature-and-scenes/`: 24 photographs from 2005–2026, with chapters on sky and light, flowers and foliage, living creatures, cities and waterfronts.
+
+Each new collection has a whitelisted bilingual `catalog.json`, static Japanese `index.html`, 1600px/800px JPEG viewing copies, and shared `photographs/collections.css` and `collections.js`. The complete photographs remain visible without JavaScript. Dates are camera-recorded dates, without an inferred timezone conversion. The original selection IDs are retained as stable image and anchor names (`w01`–`w24`, `n01`–`n24`). When maintaining the static HTML, keep its captions, exposure records and image dimensions consistent with the catalog.
 
 Default Japanese HTML includes every photograph, caption and expandable exposure record without JavaScript. `site.js` adds language switching and a keyboard-accessible image viewer (Escape to close, arrow keys to navigate). Images keep their original proportions, except for bounded presentation crops.
 
-Public assets are resized, EXIF-free JPEG viewing copies. Public `catalog.json` files contain only whitelisted descriptive and camera fields; coordinates, HDD paths and complete EXIF stay outside this repository. Restrained tonal adjustments are CSS display filters. AI-generated editing attempts were rejected and are not used. Original photographs stay untouched; people-containing reserve photographs are excluded.
+Public assets are resized, EXIF-free JPEG viewing copies. Public `catalog.json` files contain only whitelisted descriptive and camera fields; coordinates, HDD paths and complete EXIF stay outside this repository. Restrained tonal adjustments on earlier photographs are CSS display filters. AI-generated editing attempts were rejected and are not used. Original photographs stay untouched. The 48 additional photographs were individually approved by the photographer; blurred, unidentifiable figures are permitted in those selections.
 
-Preview `/photographs/?lang=ja`, `?lang=en`, and `/photographs/america/`. No build step or external dependency is needed.
+Preview `/photographs/?lang=ja`, `?lang=en`, `/photographs/america/`, `/photographs/washington/`, and `/photographs/nature-and-scenes/`. No build step or external dependency is needed.
 
 
 ## Licensing / ライセンス

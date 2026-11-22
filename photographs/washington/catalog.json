@@ -1,0 +1,561 @@
+{
+  "photographer": "Hiroshi Koyama",
+  "title": {
+    "ja": "ワシントンと近郊",
+    "en": "Washington and nearby"
+  },
+  "photos": [
+    {
+      "date": "2008-10-29",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.16666666666666666,
+      "aperture": 5.6,
+      "iso": 1600,
+      "focal_length_mm": 90,
+      "width": 1064,
+      "height": 1600,
+      "slug": "w01",
+      "title": {
+        "ja": "夜の議事堂ドーム",
+        "en": "The Capitol dome at night"
+      },
+      "alt": {
+        "ja": "紫の夜空を背に、白く照らされた連邦議会議事堂のドーム。",
+        "en": "The illuminated white dome of the US Capitol against a purple night sky."
+      },
+      "image": "images/w01.jpg",
+      "thumbnail": "images/w01-800.jpg",
+      "thumbnail_width": 532,
+      "chapter": "night"
+    },
+    {
+      "date": "2008-10-29",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.5,
+      "aperture": 5.6,
+      "iso": 1600,
+      "focal_length_mm": 135,
+      "width": 1600,
+      "height": 1064,
+      "slug": "w02",
+      "title": {
+        "ja": "夜風の星条旗",
+        "en": "Flags in the night breeze"
+      },
+      "alt": {
+        "ja": "黒い夜空を背景に並び、夜風にはためく星条旗。",
+        "en": "Rows of American flags moving in the breeze against a dark sky."
+      },
+      "image": "images/w02.jpg",
+      "thumbnail": "images/w02-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "night"
+    },
+    {
+      "date": "2008-10-29",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.16666666666666666,
+      "aperture": 5.6,
+      "iso": 1600,
+      "focal_length_mm": 28,
+      "width": 1600,
+      "height": 1064,
+      "slug": "w03",
+      "title": {
+        "ja": "光の輪を描く噴水",
+        "en": "A circle of illuminated fountains"
+      },
+      "alt": {
+        "ja": "記念碑に囲まれた池で、照明を受けた噴水が輪を描く。",
+        "en": "Illuminated jets form a circle in a pool surrounded by memorial pillars."
+      },
+      "image": "images/w03.jpg",
+      "thumbnail": "images/w03-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "night"
+    },
+    {
+      "date": "2008-10-29",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.25,
+      "aperture": 5.6,
+      "iso": 1600,
+      "focal_length_mm": 200,
+      "width": 1064,
+      "height": 1600,
+      "slug": "w04",
+      "title": {
+        "ja": "夜のホワイトハウス",
+        "en": "The White House at night"
+      },
+      "alt": {
+        "ja": "柵の向こうに白く照らされたホワイトハウスと、その前の噴水。",
+        "en": "The illuminated White House and its fountain beyond a dark fence."
+      },
+      "image": "images/w04.jpg",
+      "thumbnail": "images/w04-800.jpg",
+      "thumbnail_width": 532,
+      "chapter": "night"
+    },
+    {
+      "date": "2008-10-29",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.2,
+      "aperture": 5.6,
+      "iso": 1600,
+      "focal_length_mm": 120,
+      "width": 1600,
+      "height": 1064,
+      "slug": "w05",
+      "title": {
+        "ja": "夜のナショナル・シアター",
+        "en": "The National Theatre at night"
+      },
+      "alt": {
+        "ja": "劇場の看板と入口の明かり、その前を通り過ぎるぼけた人影。",
+        "en": "The National Theatre sign and entrance lights above a blurred passing figure."
+      },
+      "image": "images/w05.jpg",
+      "thumbnail": "images/w05-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "night"
+    },
+    {
+      "date": "2008-10-29",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.3333333333333333,
+      "aperture": 5,
+      "iso": 1600,
+      "focal_length_mm": 32,
+      "width": 1064,
+      "height": 1600,
+      "slug": "w06",
+      "title": {
+        "ja": "記念碑と星条旗",
+        "en": "A memorial, a flag and the Monument"
+      },
+      "alt": {
+        "ja": "星条旗を掲げた石の記念碑の向こうに、夜のワシントン記念塔。",
+        "en": "A stone memorial and an American flag with the Washington Monument beyond."
+      },
+      "image": "images/w06.jpg",
+      "thumbnail": "images/w06-800.jpg",
+      "thumbnail_width": 532,
+      "chapter": "night"
+    },
+    {
+      "date": "2008-10-19",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.00025,
+      "aperture": 5.6,
+      "iso": 250,
+      "focal_length_mm": 42,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w07",
+      "title": {
+        "ja": "秋のワシントン記念塔",
+        "en": "The Washington Monument in autumn"
+      },
+      "alt": {
+        "ja": "紅葉した木々の上に立つワシントン記念塔と、深い青空。",
+        "en": "The Washington Monument rising above autumn trees into a deep blue sky."
+      },
+      "image": "images/w07.jpg",
+      "thumbnail": "images/w07-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "landmarks"
+    },
+    {
+      "date": "2008-04-10",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0005,
+      "aperture": 5.6,
+      "iso": 320,
+      "focal_length_mm": 70,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w08",
+      "title": {
+        "ja": "桜とジェファソン記念館",
+        "en": "Cherry blossoms and the Jefferson Memorial"
+      },
+      "alt": {
+        "ja": "桜の枝越しに見えるジェファソン記念館と、水面に映る白い柱。",
+        "en": "The Jefferson Memorial and its reflection framed by cherry blossoms."
+      },
+      "image": "images/w08.jpg",
+      "thumbnail": "images/w08-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "landmarks"
+    },
+    {
+      "date": "2008-04-10",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.008,
+      "aperture": 11,
+      "iso": 100,
+      "focal_length_mm": 60,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w09",
+      "title": {
+        "ja": "桜並木と記念塔",
+        "en": "Cherry blossoms and a reflected monument"
+      },
+      "alt": {
+        "ja": "桜の枝に縁取られ、水面に姿を映すワシントン記念塔。",
+        "en": "The Washington Monument reflected in still water beneath cherry branches."
+      },
+      "image": "images/w09.jpg",
+      "thumbnail": "images/w09-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "landmarks"
+    },
+    {
+      "date": "2008-10-29",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.2,
+      "aperture": 5,
+      "iso": 1600,
+      "focal_length_mm": 42,
+      "width": 1600,
+      "height": 1064,
+      "slug": "w10",
+      "title": {
+        "ja": "薄暮の議事堂と街路",
+        "en": "The Capitol at twilight"
+      },
+      "alt": {
+        "ja": "薄暮の紫の空、木々と信号の明かり、その奥の連邦議会議事堂。",
+        "en": "The Capitol framed by trees, street lights and signals in purple twilight."
+      },
+      "image": "images/w10.jpg",
+      "thumbnail": "images/w10-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "landmarks"
+    },
+    {
+      "date": "2008-10-19",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0007999999797896869,
+      "aperture": 5.6,
+      "iso": 250,
+      "focal_length_mm": 38,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w11",
+      "title": {
+        "ja": "Pennsylvania Avenue",
+        "en": "Pennsylvania Avenue"
+      },
+      "alt": {
+        "ja": "青空を背景に、街灯とペンシルベニア通りの緑の標識。",
+        "en": "A street lamp and green Pennsylvania Avenue signs against a blue sky."
+      },
+      "image": "images/w11.jpg",
+      "thumbnail": "images/w11-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "landmarks"
+    },
+    {
+      "date": "2008-10-19",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.16666666666666666,
+      "aperture": 5.6,
+      "iso": 800,
+      "focal_length_mm": 10.5,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w12",
+      "title": {
+        "ja": "聖堂の内部",
+        "en": "Inside the cathedral"
+      },
+      "alt": {
+        "ja": "高いヴォールト天井とステンドグラスが広がる聖堂内の魚眼写真。",
+        "en": "A fisheye view of vaulted ceilings, stained glass and pews inside a cathedral."
+      },
+      "image": "images/w12.jpg",
+      "thumbnail": "images/w12-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "landmarks"
+    },
+    {
+      "date": "2008-04-19",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0007999999797896869,
+      "aperture": 4.5,
+      "iso": 200,
+      "focal_length_mm": 18,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w13",
+      "title": {
+        "ja": "ジョージタウンの石造りの家",
+        "en": "A stone house in Georgetown"
+      },
+      "alt": {
+        "ja": "若葉の木のそばに立つ石造りの家と、白い木柵。",
+        "en": "A stone house and white picket fence beside a tree in fresh leaf."
+      },
+      "image": "images/w13.jpg",
+      "thumbnail": "images/w13-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "streets"
+    },
+    {
+      "date": "2008-10-18",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0007999999797896869,
+      "aperture": 5.6,
+      "iso": 250,
+      "focal_length_mm": 28,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w14",
+      "title": {
+        "ja": "白い出窓の家並み",
+        "en": "White bay windows"
+      },
+      "alt": {
+        "ja": "青空の下に並ぶ、白い出窓と装飾のある家々。",
+        "en": "White houses with projecting bay windows and decorative details under blue skies."
+      },
+      "image": "images/w14.jpg",
+      "thumbnail": "images/w14-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "streets"
+    },
+    {
+      "date": "2008-10-18",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0012499999720602967,
+      "aperture": 5.6,
+      "iso": 250,
+      "focal_length_mm": 28,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w15",
+      "title": {
+        "ja": "歴史的建築の装飾",
+        "en": "Details of a historic facade"
+      },
+      "alt": {
+        "ja": "白い石造りの建物に重なる、窓、屋根、装飾のかたち。",
+        "en": "Windows, roofs and ornament on a white historic building."
+      },
+      "image": "images/w15.jpg",
+      "thumbnail": "images/w15-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "streets"
+    },
+    {
+      "date": "2008-10-18",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0015625,
+      "aperture": 5.6,
+      "iso": 250,
+      "focal_length_mm": 40,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w16",
+      "title": {
+        "ja": "P Street の信号",
+        "en": "A red light on P Street"
+      },
+      "alt": {
+        "ja": "レンガの建物の前に立つ赤信号と、緑のP Street標識。",
+        "en": "A red traffic signal and green P Street sign in front of a brick building."
+      },
+      "image": "images/w16.jpg",
+      "thumbnail": "images/w16-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "streets"
+    },
+    {
+      "date": "2008-10-18",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0025,
+      "aperture": 5.6,
+      "iso": 250,
+      "focal_length_mm": 28,
+      "width": 1600,
+      "height": 1062,
+      "slug": "w17",
+      "title": {
+        "ja": "木陰の白い家",
+        "en": "A house beneath the trees"
+      },
+      "alt": {
+        "ja": "木々の枝と低木に囲まれた、明るい壁と濃い色の扉の家。",
+        "en": "A pale house and dark doorway framed by branches and shrubs."
+      },
+      "image": "images/w17.jpg",
+      "thumbnail": "images/w17-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "streets"
+    },
+    {
+      "date": "2008-10-19",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0015625,
+      "aperture": 5.6,
+      "iso": 250,
+      "focal_length_mm": 28,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w18",
+      "title": {
+        "ja": "ガラスの塔と星条旗",
+        "en": "Glass and flags"
+      },
+      "alt": {
+        "ja": "曲面の青いガラスの塔と、その足元に並ぶ星条旗。",
+        "en": "A curved blue glass tower above a row of American flags."
+      },
+      "image": "images/w18.jpg",
+      "thumbnail": "images/w18-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "streets"
+    },
+    {
+      "date": "2008-04-05",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.001,
+      "aperture": 5.6,
+      "iso": 200,
+      "focal_length_mm": 170,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w19",
+      "title": {
+        "ja": "桜とレンガの家",
+        "en": "Cherry blossoms and brickwork"
+      },
+      "alt": {
+        "ja": "白い桜の花の向こうにぼけて見える、レンガの家と煙突。",
+        "en": "White cherry blossoms in front of softly blurred brickwork and a chimney."
+      },
+      "image": "images/w19.jpg",
+      "thumbnail": "images/w19-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "waterside"
+    },
+    {
+      "date": "2008-08-03",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0015625,
+      "aperture": 4.5,
+      "iso": 400,
+      "focal_length_mm": 28,
+      "width": 1600,
+      "height": 1062,
+      "slug": "w20",
+      "title": {
+        "ja": "逆光の若葉",
+        "en": "Leaves in the light"
+      },
+      "alt": {
+        "ja": "暗い木立の中で、日差しを受けて透ける緑の若葉。",
+        "en": "Fresh green leaves lit by sunlight against a dark canopy."
+      },
+      "image": "images/w20.jpg",
+      "thumbnail": "images/w20-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "waterside"
+    },
+    {
+      "date": "2008-08-03",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.008,
+      "aperture": 4.5,
+      "iso": 200,
+      "focal_length_mm": 200,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w21",
+      "title": {
+        "ja": "水辺のトンボ",
+        "en": "A dragonfly by the water"
+      },
+      "alt": {
+        "ja": "細い枝の先にとまる赤みのあるトンボと、ぼけた水辺の背景。",
+        "en": "A reddish dragonfly on a slender twig against a soft waterside background."
+      },
+      "image": "images/w21.jpg",
+      "thumbnail": "images/w21-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "waterside"
+    },
+    {
+      "date": "2008-04-05",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.001,
+      "aperture": 5.6,
+      "iso": 320,
+      "focal_length_mm": 180,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w22",
+      "title": {
+        "ja": "足元の青い花",
+        "en": "Small blue flowers"
+      },
+      "alt": {
+        "ja": "緑の草の中に咲く、小さな青い花。",
+        "en": "Small blue flowers among soft green grasses."
+      },
+      "image": "images/w22.jpg",
+      "thumbnail": "images/w22-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "waterside"
+    },
+    {
+      "date": "2008-08-03",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0007999999797896869,
+      "aperture": 8,
+      "iso": 200,
+      "focal_length_mm": 98,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w23",
+      "title": {
+        "ja": "ポトマック川のきらめき",
+        "en": "Light on the Potomac"
+      },
+      "alt": {
+        "ja": "木々に縁取られた川岸と、まぶしく光るポトマック川の水面。",
+        "en": "Sunlight sparkling on the Potomac beside a wooded shoreline."
+      },
+      "image": "images/w23.jpg",
+      "thumbnail": "images/w23-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "waterside"
+    },
+    {
+      "date": "2008-08-03",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.00019999999494694302,
+      "aperture": 5,
+      "iso": 320,
+      "focal_length_mm": 48,
+      "width": 1062,
+      "height": 1600,
+      "slug": "w24",
+      "title": {
+        "ja": "桟橋に差す午後の光",
+        "en": "Afternoon light on the dock"
+      },
+      "alt": {
+        "ja": "逆光の水面に浮かぶ桟橋と、手前に伸びる杭の影。",
+        "en": "Backlit water, a wooden dock and shadows stretching from mooring posts."
+      },
+      "image": "images/w24.jpg",
+      "thumbnail": "images/w24-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "waterside"
+    }
+  ]
+}

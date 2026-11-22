@@ -1,0 +1,57 @@
+/* Collection pages extend the existing paper-and-ink photography portfolio. */
+.collection-page .intro-copy>p{font-size:16px;line-height:2}
+.collection-page .eyebrow{font-size:12px;line-height:1.8}
+.collection-page .contents{flex-wrap:wrap;font-size:14px;gap:14px 22px;line-height:1.8}
+.collection-page .edition{font-size:14px;margin-top:24px}
+.collection-page .back,.collection-page .languages button{font-size:14px}
+.collection-page .languages button{min-height:44px}
+.collection-page .section-heading h2{font-size:26px}
+.collection-page .caption-title h3{font-size:21px}
+.collection-page .photograph details,.collection-page .photograph summary{font-size:14px}
+.collection-chapter{margin-top:88px}
+.intro+.collection-chapter{margin-top:0}
+.collection-row{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:48px;align-items:center;margin-top:64px}
+.section-heading+.collection-row{margin-top:0}
+.collection-half{grid-column:span 6}
+.collection-portrait{grid-column:span 4}
+.collection-landscape{grid-column:span 8}
+.collection-page .image-link{background:transparent}
+.collection-page .image-link img{max-height:780px;object-fit:contain}
+.collection-page .image-link::after{content:'+'}
+.collection-page .closing p{font-size:16px;max-width:680px}
+.collection-page .closing a{font-size:14px}
+.capture-note{font-size:14px;line-height:1.8;color:var(--muted);margin:56px 0 0}
+.collection-page .footer{font-size:14px}
+.collection-page dialog button{font-size:14px;min-height:44px}
+.collection-page dialog .viewer-meta{font-size:14px}
+.collection-page .rights-notice{box-sizing:border-box;max-width:1240px;margin:24px auto 0;padding:20px 24px;border-top:1px solid var(--line);color:var(--muted);font-size:14px;line-height:1.8}
+.collection-page .rights-notice p{display:flex;flex-wrap:wrap;gap:8px 24px}
+.collection-page .rights-notice .ai-credit{font-size:12px}
+.series-entry.new-series>img{filter:none}
+.series-entry.new-series div>p:not(.eyebrow){font-size:16px;line-height:1.9;max-width:680px}
+.series-entry.new-series div>span{font-size:14px}
+@media(max-width:850px){
+ .collection-row{gap:28px}
+ .collection-page .intro{grid-template-columns:1fr;gap:32px}
+ .collection-page .intro-copy>p{max-width:650px}
+}
+@media(max-width:600px){
+ .collection-page .intro h1{font-size:clamp(30px,8.5vw,39px)}
+ .collection-page .intro-copy>p{font-size:16px;max-width:none}
+ .collection-page .eyebrow{font-size:11px}
+ .collection-page .identity{font-size:15px;gap:7px}
+ .collection-page .monogram{width:28px;height:28px}
+ .collection-page .languages button{font-size:14px;padding:6px}
+ .collection-page .section-heading h2{font-size:23px}
+ .collection-row{display:block;margin-top:42px}
+ .collection-row .photograph+.photograph{margin-top:42px}
+ .collection-portrait{max-width:92%;margin-inline:auto}
+ .collection-chapter{margin-top:64px}
+ .collection-page .caption-title h3{font-size:21px}
+ .collection-page .image-link img{max-height:none}
+ .collection-page .closing a{white-space:normal}
+ .series-entry.new-series{grid-template-columns:1fr;gap:20px}
+ .series-entry.new-series>img{width:100%;height:220px}
+ .series-entry.new-series .eyebrow{font-size:12px}
+ .series-entry.new-series h3{font-size:26px}
+}

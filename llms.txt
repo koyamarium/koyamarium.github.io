@@ -8,5 +8,7 @@
 - [Market Chart Atlas](https://koyamarium.github.io/market-chart-atlas/): Educational technical-indicator gallery; retrospective examples are not investment recommendations.
 - [Books](https://koyamarium.github.io/books/): Book descriptions and external purchase/sample links.
 - [Photographs](https://koyamarium.github.io/photographs/): Public viewing copies.
+- [Washington and nearby](https://koyamarium.github.io/photographs/washington/): 24 photographs from 2008, with Japanese and English captions and camera details.
+- [Nature, light and city forms](https://koyamarium.github.io/photographs/nature-and-scenes/): 24 photographs from 2005–2026, in four chapters: sky, plants, animals and waterfronts.
 - [Rights & reuse](https://koyamarium.github.io/rights/): Original implementation code is MIT; text, images, books and third-party materials have separate terms. AI search, summaries and source-linked quotation are welcome within those terms.
 - [Sitemap](https://koyamarium.github.io/sitemap.xml)

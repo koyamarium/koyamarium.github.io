@@ -1,0 +1,561 @@
+{
+  "photographer": "Hiroshi Koyama",
+  "title": {
+    "ja": "自然、光、街のかたち",
+    "en": "Nature, light and city forms"
+  },
+  "photos": [
+    {
+      "date": "2012-12-27",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.004,
+      "aperture": 0,
+      "iso": 400,
+      "focal_length_mm": 0,
+      "width": 1600,
+      "height": 1064,
+      "slug": "n01",
+      "title": {
+        "ja": "月面の濃淡",
+        "en": "Shades of the Moon"
+      },
+      "alt": {
+        "ja": "黒い空の中に浮かぶ、海とクレーターの濃淡が見える月。",
+        "en": "The Moon against a black sky, with dark maria and pale craters."
+      },
+      "image": "images/n01.jpg",
+      "thumbnail": "images/n01-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "sky"
+    },
+    {
+      "date": "2007-05-31",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.625,
+      "aperture": 4.5,
+      "iso": 320,
+      "focal_length_mm": 200,
+      "width": 1062,
+      "height": 1600,
+      "slug": "n02",
+      "title": {
+        "ja": "雲ににじむ月",
+        "en": "The Moon through a veil of cloud"
+      },
+      "alt": {
+        "ja": "木々の上で、薄い雲ににじむ橙色の月。",
+        "en": "An orange Moon behind thin clouds above dark treetops."
+      },
+      "image": "images/n02.jpg",
+      "thumbnail": "images/n02-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "sky"
+    },
+    {
+      "date": "2006-09-22",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.004,
+      "aperture": 4,
+      "iso": 400,
+      "focal_length_mm": 32,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n03",
+      "title": {
+        "ja": "燃える夕空",
+        "en": "A glowing evening sky"
+      },
+      "alt": {
+        "ja": "木立のシルエットの上で、橙色に燃えるような夕焼け雲。",
+        "en": "Orange sunset clouds above a dark line of trees."
+      },
+      "image": "images/n03.jpg",
+      "thumbnail": "images/n03-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "sky"
+    },
+    {
+      "date": "2006-01-01",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.001,
+      "aperture": 4.5,
+      "iso": 100,
+      "focal_length_mm": 46,
+      "width": 1062,
+      "height": 1600,
+      "slug": "n04",
+      "title": {
+        "ja": "海へ落ちる夕日",
+        "en": "Sunset over the sea"
+      },
+      "alt": {
+        "ja": "島影のそばに沈む太陽と、海に伸びる金色の反射。",
+        "en": "The setting Sun beside distant hills and its golden reflection on the sea."
+      },
+      "image": "images/n04.jpg",
+      "thumbnail": "images/n04-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "sky"
+    },
+    {
+      "date": "2006-07-14",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.002857142857142857,
+      "aperture": 10,
+      "iso": 400,
+      "focal_length_mm": 18,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n05",
+      "title": {
+        "ja": "木立と雲の光",
+        "en": "Clouds and the first light"
+      },
+      "alt": {
+        "ja": "低い太陽に照らされた木立と、青い空に広がる細かな雲。",
+        "en": "Low sunlight at a tree line beneath a patterned blue and cloudy sky."
+      },
+      "image": "images/n05.jpg",
+      "thumbnail": "images/n05-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "sky"
+    },
+    {
+      "date": "2026-02-28",
+      "camera": "NIKON Z 50",
+      "exposure_seconds": 0.16666666666666666,
+      "aperture": 0,
+      "iso": 100,
+      "focal_length_mm": 0,
+      "width": 1600,
+      "height": 1066,
+      "slug": "n06",
+      "title": {
+        "ja": "建築と薄暮の月",
+        "en": "Architecture and a twilight Moon"
+      },
+      "alt": {
+        "ja": "魚眼で捉えた幾何学的な建物と、薄暮の空の小さな月。",
+        "en": "Geometric buildings curving around a small Moon in the twilight sky."
+      },
+      "image": "images/n06.jpg",
+      "thumbnail": "images/n06-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "sky"
+    },
+    {
+      "date": "2020-03-21",
+      "camera": "NIKON Z 50",
+      "exposure_seconds": 0.0015625,
+      "aperture": 6.3,
+      "iso": 100,
+      "focal_length_mm": 165,
+      "width": 1600,
+      "height": 1066,
+      "slug": "n07",
+      "title": {
+        "ja": "青空と桜",
+        "en": "Cherry blossoms against blue skies"
+      },
+      "alt": {
+        "ja": "青空を背景に伸びる枝と、開き始めた白い桜。",
+        "en": "Branches, buds and newly opened white cherry blossoms against blue skies."
+      },
+      "image": "images/n07.jpg",
+      "thumbnail": "images/n07-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "green"
+    },
+    {
+      "date": "2007-03-15",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.005,
+      "aperture": 5.6,
+      "iso": 200,
+      "focal_length_mm": 180,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n08",
+      "title": {
+        "ja": "一枝の春",
+        "en": "A branch of spring"
+      },
+      "alt": {
+        "ja": "柔らかな背景の前に、横に伸びる淡い桃色の花の枝。",
+        "en": "A horizontal branch of pale pink blossoms against a soft background."
+      },
+      "image": "images/n08.jpg",
+      "thumbnail": "images/n08-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "green"
+    },
+    {
+      "date": "2006-07-22",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.001,
+      "aperture": 5,
+      "iso": 400,
+      "focal_length_mm": 190,
+      "width": 1062,
+      "height": 1600,
+      "slug": "n09",
+      "title": {
+        "ja": "ひまわり",
+        "en": "Sunflower"
+      },
+      "alt": {
+        "ja": "緑の背景から浮かび上がる、黄色いひまわりの花。",
+        "en": "A yellow sunflower standing out against a soft green background."
+      },
+      "image": "images/n09.jpg",
+      "thumbnail": "images/n09-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "green"
+    },
+    {
+      "date": "2006-06-10",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.016666666666666666,
+      "aperture": 5,
+      "iso": 400,
+      "focal_length_mm": 60,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n10",
+      "title": {
+        "ja": "青紫の花",
+        "en": "Blue-violet flowers"
+      },
+      "alt": {
+        "ja": "緑の葉の中で隣り合って咲く、青紫色の二輪の花。",
+        "en": "Two blue-violet flowers side by side among green leaves."
+      },
+      "image": "images/n10.jpg",
+      "thumbnail": "images/n10-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "green"
+    },
+    {
+      "date": "2007-11-17",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.004,
+      "aperture": 8,
+      "iso": 320,
+      "focal_length_mm": 31,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n11",
+      "title": {
+        "ja": "秋の天蓋",
+        "en": "An autumn canopy"
+      },
+      "alt": {
+        "ja": "幹を見上げた先に広がる、赤く色づいた葉と青空。",
+        "en": "A view up a tree trunk into red autumn leaves and blue sky."
+      },
+      "image": "images/n11.jpg",
+      "thumbnail": "images/n11-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "green"
+    },
+    {
+      "date": "2006-06-14",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.25,
+      "aperture": 16,
+      "iso": 200,
+      "focal_length_mm": 52,
+      "width": 1062,
+      "height": 1600,
+      "slug": "n12",
+      "title": {
+        "ja": "緑の小さな滝",
+        "en": "A small green waterfall"
+      },
+      "alt": {
+        "ja": "苔むした岩と緑の葉の間を流れ落ちる細い滝。",
+        "en": "A slender waterfall between moss-covered rock and green foliage."
+      },
+      "image": "images/n12.jpg",
+      "thumbnail": "images/n12-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "green"
+    },
+    {
+      "date": "2006-04-25",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.003125,
+      "aperture": 5.6,
+      "iso": 100,
+      "focal_length_mm": 200,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n13",
+      "title": {
+        "ja": "石の上でまどろむ猫",
+        "en": "A cat dozing on stone"
+      },
+      "alt": {
+        "ja": "日を受ける石の上で、目を閉じてまどろむ猫。",
+        "en": "A cat with closed eyes resting on sunlit stone."
+      },
+      "image": "images/n13.jpg",
+      "thumbnail": "images/n13-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "animals"
+    },
+    {
+      "date": "2008-09-28",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0125,
+      "aperture": 5.6,
+      "iso": 640,
+      "focal_length_mm": 270,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n14",
+      "title": {
+        "ja": "木の実を食べるリス",
+        "en": "A squirrel with a nut"
+      },
+      "alt": {
+        "ja": "柔らかな緑を背景に、木の実を両手に持つリス。",
+        "en": "A squirrel holding a nut in its paws against a soft green background."
+      },
+      "image": "images/n14.jpg",
+      "thumbnail": "images/n14-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "animals"
+    },
+    {
+      "date": "2006-06-19",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0006249999860301484,
+      "aperture": 4,
+      "iso": 200,
+      "focal_length_mm": 200,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n15",
+      "title": {
+        "ja": "草原の子羊",
+        "en": "A lamb in the meadow"
+      },
+      "alt": {
+        "ja": "草地に立つ子羊と、後ろにぼけて見える羊たち。",
+        "en": "A lamb standing in grass with other sheep softly blurred behind it."
+      },
+      "image": "images/n15.jpg",
+      "thumbnail": "images/n15-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "animals"
+    },
+    {
+      "date": "2007-06-16",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.00039999998989452437,
+      "aperture": 5.6,
+      "iso": 640,
+      "focal_length_mm": 150,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n16",
+      "title": {
+        "ja": "草原を歩く鹿",
+        "en": "A young deer in the grass"
+      },
+      "alt": {
+        "ja": "緑の草原を横切って歩く、白い斑点のある若い鹿。",
+        "en": "A young spotted deer walking across a green meadow."
+      },
+      "image": "images/n16.jpg",
+      "thumbnail": "images/n16-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "animals"
+    },
+    {
+      "date": "2008-05-04",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.00039999998989452437,
+      "aperture": 5,
+      "iso": 320,
+      "focal_length_mm": 150,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n17",
+      "title": {
+        "ja": "親子の行進",
+        "en": "Following the parent"
+      },
+      "alt": {
+        "ja": "舗装路を歩く親鳥と、その後ろを並んで追う三羽のひな。",
+        "en": "A goose walking along a paved path with three goslings following behind."
+      },
+      "image": "images/n17.jpg",
+      "thumbnail": "images/n17-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "animals"
+    },
+    {
+      "date": "2007-03-19",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.0006666666595264234,
+      "aperture": 2.8,
+      "iso": 400,
+      "focal_length_mm": 120,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n18",
+      "title": {
+        "ja": "翼を広げるサギ",
+        "en": "A heron spreads its wings"
+      },
+      "alt": {
+        "ja": "水面の上で大きく翼を開き、脚を下ろしたサギ。",
+        "en": "A heron spreading its wings with its legs lowered above the water."
+      },
+      "image": "images/n18.jpg",
+      "thumbnail": "images/n18-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "animals"
+    },
+    {
+      "date": "2005-12-25",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.06666666666666667,
+      "aperture": 3.5,
+      "iso": 100,
+      "focal_length_mm": 18,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n19",
+      "title": {
+        "ja": "橋の下の薄暮",
+        "en": "Twilight beneath the bridge"
+      },
+      "alt": {
+        "ja": "夕暮れの海へ向かって伸びる吊り橋を、下から見上げた構図。",
+        "en": "A view from beneath a suspension bridge extending over the sea at twilight."
+      },
+      "image": "images/n19.jpg",
+      "thumbnail": "images/n19-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "waterfront"
+    },
+    {
+      "date": "2006-01-01",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.03333333333333333,
+      "aperture": 3.8,
+      "iso": 200,
+      "focal_length_mm": 22,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n20",
+      "title": {
+        "ja": "霧の中の灯台",
+        "en": "A lighthouse in the mist"
+      },
+      "alt": {
+        "ja": "霧がかった海を背に、暖かな光をともす白い灯台。",
+        "en": "A white lighthouse with a warm beacon above a misty sea."
+      },
+      "image": "images/n20.jpg",
+      "thumbnail": "images/n20-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "waterfront"
+    },
+    {
+      "date": "2005-12-17",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.3333333333333333,
+      "aperture": 3.8,
+      "iso": 800,
+      "focal_length_mm": 22,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n21",
+      "title": {
+        "ja": "水面の夜景",
+        "en": "City lights on the water"
+      },
+      "alt": {
+        "ja": "観覧車や建物の明かりが、暗い港の水面に反射する夜景。",
+        "en": "A Ferris wheel and waterfront lights reflected in a dark harbor."
+      },
+      "image": "images/n21.jpg",
+      "thumbnail": "images/n21-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "waterfront"
+    },
+    {
+      "date": "2008-10-12",
+      "camera": "NIKON D40",
+      "exposure_seconds": 0.005,
+      "aperture": 10,
+      "iso": 400,
+      "focal_length_mm": 27,
+      "width": 1600,
+      "height": 1061,
+      "slug": "n22",
+      "title": {
+        "ja": "赤い屋根と港",
+        "en": "Red roofs and a harbor"
+      },
+      "alt": {
+        "ja": "赤い屋根の長い建物の向こうに、木々と港が広がる眺め。",
+        "en": "Long red-roofed buildings with trees and a harbor beyond."
+      },
+      "image": "images/n22.jpg",
+      "thumbnail": "images/n22-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "waterfront"
+    },
+    {
+      "date": "2006-04-24",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.00625,
+      "aperture": 7.1,
+      "iso": 100,
+      "focal_length_mm": 24,
+      "width": 1062,
+      "height": 1600,
+      "slug": "n23",
+      "title": {
+        "ja": "川と石橋",
+        "en": "A river and a stone bridge"
+      },
+      "alt": {
+        "ja": "街の間を流れる川と、水面に輪郭を映す石のアーチ橋。",
+        "en": "A stone arch bridge reflected in a river running between city streets."
+      },
+      "image": "images/n23.jpg",
+      "thumbnail": "images/n23-800.jpg",
+      "thumbnail_width": 531,
+      "chapter": "waterfront"
+    },
+    {
+      "date": "2007-08-26",
+      "camera": "NIKON D2X",
+      "exposure_seconds": 0.002,
+      "aperture": 9,
+      "iso": 200,
+      "focal_length_mm": 10.5,
+      "width": 1600,
+      "height": 1062,
+      "slug": "n24",
+      "title": {
+        "ja": "青い海と砂浜",
+        "en": "Blue water and an empty beach"
+      },
+      "alt": {
+        "ja": "青い海と白い波が続く、長く明るい砂浜。",
+        "en": "A long bright beach beside blue water and lines of white surf."
+      },
+      "image": "images/n24.jpg",
+      "thumbnail": "images/n24-800.jpg",
+      "thumbnail_width": 800,
+      "chapter": "waterfront"
+    }
+  ]
+}
